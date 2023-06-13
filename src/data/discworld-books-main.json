@@ -1,0 +1,371 @@
+[
+	{
+		"id": 1,
+		"date": 1983,
+		"title": "The Colour of Magic",
+		"title_es": "El color de la magia",
+		"title_de": "Die Farben der Magie",
+		"subseries": "Rincewind",
+		"locations": ""
+	},
+	{
+		"id": 2,
+		"date": 1986,
+		"title": "The Light Fantastic",
+		"title_es": "La luz fantástica",
+		"title_de": "Das Licht der Phantasie",
+		"subseries": "Rincewind",
+		"locations": ""
+	},
+	{
+		"id": 3,
+		"date": 1987,
+		"title": "Equal Rites",
+		"title_es": "Ritos iguales",
+		"title_de": "Das Erbe des Zauberers",
+		"subseries": "The Witches",
+		"locations": ""
+	},
+	{
+		"id": 4,
+		"date": 1987,
+		"title": "Mort",
+		"title_es": "Mort",
+		"title_de": "Gevatter Tod",
+		"subseries": "Death",
+		"locations": ""
+	},
+	{
+		"id": 5,
+		"date": 1988,
+		"title": "Sourcery",
+		"title_es": "Rechicero",
+		"title_de": "Der Zauberhut",
+		"subseries": "Rincewind, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 6,
+		"date": 1988,
+		"title": "Wyrd Sisters",
+		"title_es": "Brujerías",
+		"title_de": "MacBest",
+		"subseries": "The Witches",
+		"locations": ""
+	},
+	{
+		"id": 7,
+		"date": 1989,
+		"title": "Pyramids",
+		"title_es": "Pirómides",
+		"title_de": "Pyramiden",
+		"subseries": "Independent",
+		"locations": "Djelibeybi"
+	},
+	{
+		"id": 8,
+		"date": 1989,
+		"title": "Guards! Guards!",
+		"title_es": "¡Guardias! ¿Guardias?",
+		"title_de": "Wachen! Wachen!",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 9,
+		"date": 1990,
+		"title": "Faust Eric",
+		"title_es": "Fausto Eric",
+		"title_de": "Faust Eric",
+		"subseries": "Rincewind",
+		"locations": ""
+	},
+	{
+		"id": 10,
+		"date": 1990,
+		"title": "Moving Pictures",
+		"title_es": "Imágenes en acción",
+		"title_de": "Voll im Bilde",
+		"subseries": "Industrial Revolution, Independent, The Wizards",
+		"locations": "Ankh-Morpork"
+	},
+	{
+		"id": 11,
+		"date": 1991,
+		"title": "Reaper Man",
+		"title_es": "El segador",
+		"title_de": "Alles Sense",
+		"subseries": "Death, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 12,
+		"date": 1991,
+		"title": "Witches Abroad",
+		"title_es": "Brujas de viaje",
+		"title_de": "Total verhext",
+		"subseries": "The Witches",
+		"locations": ""
+	},
+	{
+		"id": 13,
+		"date": 1992,
+		"title": "Small Gods",
+		"title_es": "Dioses menores",
+		"title_de": "Einfach göttlich",
+		"subseries": "Independent",
+		"locations": "Omnia"
+	},
+	{
+		"id": 14,
+		"date": 1992,
+		"title": "Lords and Ladies",
+		"title_es": "Lores y damas",
+		"title_de": "Lords und Ladies",
+		"subseries": "The Witches, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 15,
+		"date": 1993,
+		"title": "Men at Arms",
+		"title_es": "Hombres de armas",
+		"title_de": "Helle Barden",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 16,
+		"date": 1994,
+		"title": "Soul Music",
+		"title_es": "Soul Music",
+		"title_de": "Rollende Steine",
+		"subseries": "Death, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 17,
+		"date": 1994,
+		"title": "Interesting Times",
+		"title_es": "Tiempos interesantes",
+		"title_de": "Echt zauberhaft",
+		"subseries": "Rincewind, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 18,
+		"date": 1995,
+		"title": "Maskerade",
+		"title_es": "Mascarada",
+		"title_de": "Mummenschanz",
+		"subseries": "The Witches",
+		"locations": ""
+	},
+	{
+		"id": 19,
+		"date": 1996,
+		"title": "Feet of Clay",
+		"title_es": "Pies de barro",
+		"title_de": "Hohle Köpfe",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 20,
+		"date": 1996,
+		"title": "Hogfather",
+		"title_es": "Papá Puerco",
+		"title_de": "Schweinsgalopp",
+		"subseries": "Death, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 21,
+		"date": 1997,
+		"title": "Jingo",
+		"title_es": "¡Voto a bríos!",
+		"title_de": "Fliegende Fetzen",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 22,
+		"date": 1998,
+		"title": "The Last Continent",
+		"title_es": "El país del fin del mundo",
+		"title_de": "Heiße Hüpfer",
+		"subseries": "Rincewind, The Wizards",
+		"locations": ""
+	},
+	{
+		"id": 23,
+		"date": 1998,
+		"title": "Carpe Jugulum",
+		"title_es": "Carpe jugulum",
+		"title_de": "Ruhig Blut",
+		"subseries": "The Witches",
+		"locations": ""
+	},
+	{
+		"id": 24,
+		"date": 1999,
+		"title": "The Fifth Elephant",
+		"title_es": "El quinto elefante",
+		"title_de": "Der fünfte Elefant",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 25,
+		"date": 2000,
+		"title": "The Truth",
+		"title_es": "La verdad",
+		"title_de": "Die volle Wahrheit",
+		"subseries": "Industrial Revolution, Independent, City Watch",
+		"locations": "Ankh-Morpork"
+	},
+	{
+		"id": 26,
+		"date": 2001,
+		"title": "Thief of Time",
+		"title_es": "Ladrón del Tiempo",
+		"title_de": "Der Zeitdieb",
+		"subseries": "Death, History Monks",
+		"locations": ""
+	},
+	{
+		"id": 27,
+		"date": 2001,
+		"title": "The Last Hero",
+		"title_es": "El último héroe",
+		"title_de": "Wahre Helden",
+		"subseries": "Rincewind, Independent",
+		"locations": ""
+	},
+	{
+		"id": 28,
+		"date": 2001,
+		"title": "The Amazing Maurice and His Educated Rodents",
+		"title_es": "El asombroso Mauricio y sus roedores sabios",
+		"title_de": "Maurice der Kater",
+		"subseries": "Independent",
+		"locations": "Überwald"
+	},
+	{
+		"id": 29,
+		"date": 2002,
+		"title": "Night Watch",
+		"title_es": "Ronda de noche",
+		"title_de": "Die Nachtwächter",
+		"subseries": "City Watch, History Monks",
+		"locations": ""
+	},
+	{
+		"id": 30,
+		"date": 2003,
+		"title": "The Wee Free Men",
+		"title_es": "Los pequeños hombres libres",
+		"title_de": "Kleine freie Männer",
+		"subseries": "Tiffany Aching",
+		"locations": ""
+	},
+	{
+		"id": 31,
+		"date": 2003,
+		"title": "Monstrous Regiment",
+		"title_es": "Regimiento monstruoso",
+		"title_de": "Weiberregiment",
+		"subseries": "City Watch, Industrial Revolution, Independent",
+		"locations": ""
+	},
+	{
+		"id": 32,
+		"date": 2004,
+		"title": "A Hat Full of Sky",
+		"title_es": "Un sombrero de cielo",
+		"title_de": "Ein Hut voller Sterne",
+		"subseries": "Tiffany Aching, The Witches",
+		"locations": ""
+	},
+	{
+		"id": 33,
+		"date": 2004,
+		"title": "Going Postal",
+		"title_es": "Cartas en el asunto",
+		"title_de": "Ab die Post",
+		"subseries": "Moist von Lipwig",
+		"locations": "Ankh-Morpork"
+	},
+	{
+		"id": 34,
+		"date": 2005,
+		"title": "Thud!",
+		"title_es": "¡Zas!",
+		"title_de": "Klonk!",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 35,
+		"date": 2006,
+		"title": "Wintersmith",
+		"title_es": "La Corona de Hielo",
+		"title_de": "Der Winterschmied",
+		"subseries": "Tiffany Aching, The Witches",
+		"locations": ""
+	},
+	{
+		"id": 36,
+		"date": 2007,
+		"title": "Making Money",
+		"title_es": "Dinero a mansalva",
+		"title_de": "Schöne Scheine",
+		"subseries": "Moist von Lipwig",
+		"locations": "Ankh-Morpork"
+	},
+	{
+		"id": 37,
+		"date": 2009,
+		"title": "Unseen Academicals",
+		"title_es": "El Atlético Invisible",
+		"title_de": "Der Club der unsichtbaren Gelehrten",
+		"subseries": "The Wizards, Rincewind",
+		"locations": ""
+	},
+	{
+		"id": 38,
+		"date": 2010,
+		"title": "I Shall Wear Midnight",
+		"title_es": "Me vestiré de medianoche",
+		"title_de": "Das Mitternachtskleid",
+		"subseries": "Tiffany Aching",
+		"locations": ""
+	},
+	{
+		"id": 39,
+		"date": 2011,
+		"title": "Snuff",
+		"title_es": "Snuff",
+		"title_de": "Steife Prise",
+		"subseries": "City Watch",
+		"locations": ""
+	},
+	{
+		"id": 40,
+		"date": 2013,
+		"title": "Raising Steam",
+		"title_es": "A Todo Vapor",
+		"title_de": "Toller Dampf voraus",
+		"subseries": "Moist von Lipwig, City Watch",
+		"locations": "Ankh-Morpork"
+	},
+	{
+		"id": 41,
+		"date": 2015,
+		"title": "The Shepherd's Crown",
+		"title_es": "La corona del pastor",
+		"title_de": "Die Krone des Schäfers",
+		"subseries": "Tiffany Aching",
+		"locations": ""
+	}
+]

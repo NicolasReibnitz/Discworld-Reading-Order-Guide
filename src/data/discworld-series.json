@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "City Watch",
+		"colorBg": "positive",
+		"colorText": "white"
+	},
+	{
+		"id": 2,
+		"title": "Death",
+		"colorBg": "dark",
+		"colorText": "white"
+	},
+	{
+		"id": 3,
+		"title": "Discworld Cultures",
+		"colorBg": "negative",
+		"colorText": "white"
+	},
+	{
+		"id": 4,
+		"title": "Industrial Revolution",
+		"colorBg": "warning",
+		"colorText": "black"
+	},
+	{
+		"id": 5,
+		"title": "Witches",
+		"colorBg": "accent",
+		"colorText": "white"
+	},
+	{
+		"id": 6,
+		"title": "Wizards",
+		"colorBg": "primary",
+		"colorText": "white"
+	}
+]
